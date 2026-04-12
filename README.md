@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Vinicius
 
-<!--
-**viniciusroll/viniciusroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Analysis and Development student
+⚙️ Focused on Development and CyberSec
+🚀 Passionate about solving problems with technology
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* JavaScript
+* SQL
+* Git & GitHub
+* Java
+* C
+* C++
+* TypeScript
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/vinicius-rodrigo-de-oliveira-silva-62899722a/
